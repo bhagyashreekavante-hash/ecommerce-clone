@@ -13,3 +13,11 @@ A simple e-commerce website UI built using HTML and CSS.
 
 - HTML5
 - CSS3
+
+## 📸 Preview
+
+### Home Page
+![Screenshot 1](ss1.png)
+
+### Product Section
+![Screenshot 2](ss2.png)
